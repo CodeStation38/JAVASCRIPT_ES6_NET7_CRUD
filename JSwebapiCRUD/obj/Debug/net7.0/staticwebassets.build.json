@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "fx8NUYL4UUa5FTdehNlOIqCywIpXZoXE7pAe+ucwp9M=",
+  "Source": "JSwebapiCRUD",
+  "BasePath": "_content/JSwebapiCRUD",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "JSwebapiCRUD\\wwwroot",
+      "Source": "JSwebapiCRUD",
+      "ContentRoot": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\",
+      "BasePath": "_content/JSwebapiCRUD",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\css\\site.css",
+      "SourceId": "JSwebapiCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\",
+      "BasePath": "_content/JSwebapiCRUD",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\index.html",
+      "SourceId": "JSwebapiCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\",
+      "BasePath": "_content/JSwebapiCRUD",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\js\\site.js",
+      "SourceId": "JSwebapiCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\",
+      "BasePath": "_content/JSwebapiCRUD",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

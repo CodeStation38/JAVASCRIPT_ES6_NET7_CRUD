@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\Ready to use\\GITHUB\\ENG\\JAVASCRIPT_ES6_NET7_CRUD\\JSwebapiCRUD\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.JSwebapiCRUD.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.JSwebapiCRUD.props",
+      "PackagePath": "build\\JSwebapiCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.JSwebapiCRUD.props",
+      "PackagePath": "buildMultiTargeting\\JSwebapiCRUD.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.JSwebapiCRUD.props",
+      "PackagePath": "buildTransitive\\JSwebapiCRUD.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
